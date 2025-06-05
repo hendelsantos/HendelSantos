@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mim
 
-- 💡 Empreendedor por natureza 
+- 💡 " O Futuro é programavel "
 - 🔧 Crio CRMs, redes sociais técnicas, sistemas de estoque e ferramentas visuais
 - 📚 Sempre aprendendo: Python, Go, Flask, FastAPI, Django, JavaScript, Bootstrap
 - 🧠 Foco em soluções para manutenção industrial, com visão prática e escalável
