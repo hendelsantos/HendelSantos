@@ -1,15 +1,18 @@
 <h1 align="center">👋 Olá, eu sou o Hendel</h1>
-<p align="center">Desenvolvedor apaixonado por sistemas de manutenção, automações e soluções web</p>
+<p align="center">Desenvolvedor especializado em Django, apaixonado por sistemas de manutenção, automações industriais, soluções web e Engenharia de Prompt aplicada à IA generativa.</p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 💡 " O Futuro é programavel "
-- 🔧 Crio CRMs, redes sociais técnicas, sistemas de estoque e ferramentas visuais
-- 📚 Sempre aprendendo: Python, Go, Flask, FastAPI, Django, JavaScript, Bootstrap
-- 🧠 Foco em soluções para manutenção industrial, com visão prática e escalável
-- 🌍 Servidor próprio com **CasaOS** para gerenciar e hospedar meus projetos
+🚀 Sobre mim
+💡 "O Futuro é programável"
+🔧 Desenvolvo CRMs, redes sociais técnicas, sistemas de estoque e ferramentas visuais voltadas para o setor industrial
+📚 Em constante evolução: atualmente focado em Python e me especializando em Django, com diversos projetos práticos
+🧠 Visão prática e escalável para manutenção industrial e áreas técnicas
+🤖 Estudando Engenharia de Prompt e IA Generativa, utilizando prompts de qualidade para aprender e construir soluções rapidamente — afinal, o maior ativo de uma empresa é o tempo!
+
+
 
 ---
 
@@ -27,6 +30,10 @@
 ---
 
 ### 🌟 Projetos em Destaque
+
+- 📋 Sistema de Demandas - Django (Controle V1)
+   Sistema completo e funcional de controle de demandas com Django, SQLite, Bootstrap e painel administrativo
+  👉 https://github.com/hendelsantos/SistemaControleV1
 
 - 📦 [CRM de Estoque - Flask](https://github.com/HendelSantos/crm-estoque)  
   Sistema completo de estoque com cards, planilhas, filtros e painel admin 🔧
