@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Hendel</h1>
-<p align="center">Desenvolvedor especializado em Django, apaixonado por sistemas de manutenção, automações industriais, soluções web e Engenharia de Prompt aplicada à IA generativa.</p>
+<p align="center">Desenvolvedor especializado em Django, apaixonado por criar sistemas web robustos e inteligentes para diversos segmentos — de manutenção industrial a soluções comerciais. Me especializando IA generativa e Engenharia de Prompt, focado em acelerar resultados com tecnologia prática e escalável.</p>
 
 ---
 
