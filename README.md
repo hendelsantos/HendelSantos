@@ -4,13 +4,12 @@
 ---
 
 ### 🚀 Sobre mim
-
-🚀 Sobre mim
 💡 "O Futuro é programável"
-🔧 Desenvolvo CRMs, redes sociais técnicas, sistemas de estoque e ferramentas visuais voltadas para o setor industrial
-📚 Em constante evolução: atualmente focado em Python e me especializando em Django, com diversos projetos práticos
-🧠 Visão prática e escalável para manutenção industrial e áreas técnicas
-🤖 Estudando Engenharia de Prompt e IA Generativa, utilizando prompts de qualidade para aprender e construir soluções rapidamente — afinal, o maior ativo de uma empresa é o tempo!
+🔧 Desenvolvo CRMs, redes sociais técnicas, sistemas de estoque e ferramentas visuais voltadas para o setor industrial.
+📚 Em constante evolução: atualmente focado em Python e me especializando em Django, com diversos projetos práticos.
+📱 Também estou aprendendo Flutter e utilizando IA generativa para criar aplicativos móveis de forma mais ágil e inteligente.
+🧠 Visão prática e escalável para manutenção industrial e áreas técnicas.
+🤖 Estudando Engenharia de Prompt e IA Generativa, aplicando prompts de qualidade para aprender, acelerar o desenvolvimento e construir soluções inovadoras — afinal, o maior ativo de uma empresa é o tempo!
 
 
 
@@ -23,6 +22,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
