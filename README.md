@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Hendel</h1>
-<p align="center">Desenvolvedor especializado em Django, apaixonado por criar sistemas web robustos e inteligentes para diversos segmentos de manutenção industrial a soluções comerciais. Me especializando IA generativa e Engenharia de Prompt, focado em acelerar resultados com tecnologia prática e escalável.</p>
+<p align="center">rogramo com inteligência artificial. Uso Python, Django, Flutter, Go e C para construir soluções que resolvem problemas reais = rápido. Domino engenharia de prompt e IA generativa para entregar sistemas web, automações e ferramentas com velocidade e precisão. Eu não apenas escrevo código: eu crio o que o futuro exige.</p>
 
 ---
 
