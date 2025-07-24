@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Hendel</h1>
-<p align="center">rogramo com inteligência artificial. Uso Python, Django, Flutter, Go e C para construir soluções que resolvem problemas reais = rápido. Domino engenharia de prompt e IA generativa para entregar sistemas web, automações e ferramentas com velocidade e precisão. Eu não apenas escrevo código: eu crio o que o futuro exige.</p>
+<p align="center">Programo com inteligência artificial. Uso Python, Django, Flutter, Go e C para construir soluções que resolvem problemas reais = rápido. Domino engenharia de prompt e IA generativa para entregar sistemas web, automações e ferramentas com velocidade e precisão. Eu não apenas escrevo código: eu crio o que o futuro exige.</p>
 
 ---
 
