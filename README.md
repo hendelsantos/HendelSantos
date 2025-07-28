@@ -29,23 +29,21 @@
 
 ---
 
-### 🌟 Projetos em Destaque
+Projetos em Destaque
+📋 Sistema de Demandas - Django (Controle V1)
+Sistema completo e funcional para controle de demandas, com Django, SQLite, Bootstrap e painel administrativo personalizável.
 
-- 📋 Sistema de Demandas - Django (Controle V1)
-   Sistema completo e funcional de controle de demandas com Django, SQLite, Bootstrap e painel administrativo
-  👉 [](https://github.com/hendelsantos/SistemaControleV1)
+📦 CRM de Estoque - Flask
+Gerenciamento de estoque com visual moderno em cards, integração com planilhas, filtros inteligentes e painel administrativo.
 
-- 📦 [CRM de Estoque - Flask](https://github.com/HendelSantos/crm-estoque)  
-  Sistema completo de estoque com cards, planilhas, filtros e painel admin 🔧
+🛠️ Rede Engrenagem
+Rede social interna voltada para técnicos de manutenção, com feed interativo, curtidas, comentários e upload de fotos.
 
-- 🛠️ [Rede Engrenagem](https://github.com/HendelSantos/rede-engrenagem)  
-  Rede social corporativa para técnicos de manutenção com feed e upload de fotos
+☁️ PhotoCloud
+Aplicação para armazenamento e galeria de fotos na nuvem, com upload rápido, visual elegante e exclusão automática de arquivos por tempo configurado.
 
-- ☁️ [PhotoCloud](https://photo-cloud-wbb9.onrender.com/)  
-  Sistema de armazenamento de fotos com galeria web, upload rápido e exclusão automática por tempo configurado.
-  🔒 Já está hospedado gratuitamente no Render, disponível para uso e testes em produção.
-
----
+🔗 Acesse todos os repositórios e mais projetos em:
+github.com/hendelsantos?tab=repositories
 
 ### 📈 Estatísticas
 
